@@ -5,8 +5,8 @@
 <header
 	class="flex px-4 items-center h-[64px] py-2 bg-white z-10 justify-between sticky top-0 left-0"
 >
-	<a href="/">
-		<img src="/icons/ytLogo.svg" class="md:hidden mr-5" alt="yt logo" />
+	<a href="/" class="md:hidden mr-5">
+		<img src="/icons/ytLogo.svg" alt="yt logo" />
 	</a>
 	<div class="md:flex hidden gap-4 items-center">
 		<img
