@@ -1,4 +1,4 @@
-<div class="flex gap-4">
+<a href="/" class="flex gap-4">
 	<img
 		class="max-w-[360px] object-cover aspect-video rounded-2xl w-full flex
   items-center justify-center"
@@ -13,11 +13,10 @@
 			<p class="text-xs capitalize">Saurab</p>
 		</div>
 		<p class="text-xs">Welcome to my channel welcome to my channel</p>
-		<div class="flex items-center gap-2">
-			<p class="rounded bg-gray-700 text-gray-800 text-xs font-semibold py-0.5 px-1"></p>
-			<div class="flex items-center gap-2">
-				<p class="rounded bg-gray-200 text-gray-800 text-xs font-semibold py-0.5 px-1">4k</p>
-			</div>
+		<div class="flex items-center gap-2 mt-3">
+			<p class="rounded bg-gray-200 text-gray-800 text-xs font-semibold py-0.5 px-1">4k</p>
+			<p class="rounded bg-gray-200 text-gray-800 text-xs font-semibold py-0.5 px-1">4k</p>
+			<p class="rounded bg-gray-200 text-gray-800 text-xs font-semibold py-0.5 px-1">4k</p>
 		</div>
 	</div>
-</div>
+</a>
