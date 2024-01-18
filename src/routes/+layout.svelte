@@ -6,8 +6,7 @@
 
 <Header />
 <div class="flex">
-	<SideBar />
-	<main class="ml-[74px] p-6 flex-1">
+	<main class=" p-6 flex-1">
 		<slot />
 	</main>
 </div>
